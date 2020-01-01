@@ -1,0 +1,27 @@
+ img {
+	max-width: 20% !important;
+
+}
+
+.nav-bak{
+	background-color: gray !important;
+}
+
+.about{
+	background-image: url(../image/bg.jpg);
+	background-size: cover;
+}
+
+.about-one h2{
+    color: white;
+    text-align: center;
+    margin: 50px;
+}
+.about-one button {
+    border: none;
+    background: green;
+    margin: 71px 500px;
+    border-radius: 30px;
+    padding: 6px 12px;
+}
+
